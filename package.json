@@ -1,0 +1,16 @@
+{
+  "name": "get-my-rank-on-commits-top",
+  "version": "1.0.0",
+  "description": "A scraper which returns your current GitHub rank form commits.top per country.",
+  "main": "index.js",
+  "author": "David Barton (theDavidBarton)",
+  "license": "MIT",
+  "repository": "github:theDavidBarton/get-my-rank-on-commits-top",
+  "homepage": "https://github.com/theDavidBarton/get-my-rank-on-commits-top",
+  "engines": {
+    "node": ">=10.18.1"
+  },
+  "dependencies": {
+    "puppeteer": "^3.0.2"
+  }
+}
