@@ -1,6 +1,6 @@
 {
   "name": "get-my-rank-on-commits-top",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A scraper which returns your current GitHub rank form commits.top per country.",
   "main": "index.js",
   "author": "David Barton (theDavidBarton)",

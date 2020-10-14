@@ -15,9 +15,11 @@ const getMyRank = require('get-my-rank-on-commits-top')
 
 ```javascript
 {
-    rank: '27',
-    user: 'theDavidBarton',
-    country: 'Hungary'
+  rank: '62',
+  rankContrib: '21',
+  rankAll: '63',
+  user: 'theDavidBarton',
+  country: 'Hungary'
 }
 ```
 
