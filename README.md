@@ -1,3 +1,5 @@
+[![npm package](https://img.shields.io/npm/v/get-my-rank-on-commits-top.svg)](https://www.npmjs.com/package/get-my-rank-on-commits-top)
+
 # get-my-rank-on-commits-top
 
 Get my rank on commits.top
