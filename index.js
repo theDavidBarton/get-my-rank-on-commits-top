@@ -57,7 +57,7 @@ const getMyRank = async (userName, country) => {
       let rank
       // top 256 GitHub users present
       for (let i = 1; i < 257; i++) {
-        rank = await pge.$eval(`tr:nth-child(${i})`, el => el.innerText)
+        rank = await pge.$eval(`tbody > tr:nth-child(${i})`, el => el.innerText)
         if (rank.includes(userName)) {
           ;[rank] = rank.match(/[0-9]+/)
           break
